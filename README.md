@@ -8,9 +8,8 @@ This is useful when you are watching a YouTube video (or a playlist), and an ad 
 
 ### Chrome
 
-[Check it on Github]()
-[Get it from Chrome Web Store](https://chrome.google.com/webstore/detail/-----)
+[Check it on Github](https://github.com/adarshgupta400/Yt_ad_skipper)
 
-### Firefox
+[Get it from Chrome Web Store](https://chrome.google.com/webstore/detail/-----)
 
 
