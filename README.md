@@ -1,4 +1,5 @@
 # Yt_ad_skipper
+# Created by Adarsh Gupta
 
 A browser extension that automates skipping ad on YouTube. This is not an ad blocker, it just automates the process of clicking on the "Skip Ad" button on YouTube.
 
