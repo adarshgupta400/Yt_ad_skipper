@@ -1,0 +1,20 @@
+{
+  "name":"YouTube Ad Auto-skipper",
+  "short_name": "YouTube Ad Auto-skipper",
+  "description":"YouTube Ad Skipper is an extension design by Adarsh that auto skips ads after YouTube provides a skip ad button. It does not block an ad.",
+  "manifest_version": 2,
+  "version":"1.0.0",
+  "author":"Adarsh Kumar Gupta",
+  "homepage_url": "https://github.com/adarshgupta400/yt-ad-autoskipper",
+  "content_scripts":[
+    {
+      "matches": ["*://*.youtube.com/*"],
+      "js":["skipad.js"],
+      "run_at": "document_end",
+      "all_frames": true
+    }
+  ],
+  "icons": {
+    "128": "logo.png"
+  }
+}
